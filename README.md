@@ -26,8 +26,8 @@ Statistical validation: temp.m
 
 Format ground truth: positivegtvalidate.m
 
-# Future Work (To Be Continued) in /future
+# Future Work in Progress (To Be Continued) in /future
 
-Automated prediction of future lesion change prediction based on quantitative MR imaging features using cross-sectional image data: predictionBaseline.m
+Automated prediction of future lesion change based on quantitative MR imaging features using cross-sectional image data: predictionBaseline.m
 
 Pipeline could continue to be extended to evaluating MR images based on larger patches than 21x21 using supervised deep learning: original_cnn.ipynb, createpatches.ipynb
