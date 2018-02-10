@@ -26,7 +26,7 @@ Statistical validation: temp.m
 
 Format ground truth: positivegtvalidate.m
 
-### Future Work in Progress (To Be Continued) in /future
+### Work in Progress (To Be Continued) in /future
 
 Automated prediction of future lesion change based on quantitative MR imaging features using cross-sectional image data: predictionBaseline.m
 
